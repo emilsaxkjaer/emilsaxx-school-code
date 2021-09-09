@@ -33,11 +33,5 @@ void setup()
   }
   else if (weekDay == 6) {println("It's sunday!");
   }
-
-   
-  
-    
-    
-  // Print if it is weekend here:
   
 }
